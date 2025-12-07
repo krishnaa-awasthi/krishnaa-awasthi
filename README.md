@@ -1,13 +1,10 @@
 <!-- HERO -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?
-font=Fira+Code&weight=700&size=30&pause=1200&color=00E8FF
-&center=true&vCenter=true&width=850
-&lines=Software+Developer;
-Backend+Engineering;
-AI+Builder;
-Turning+Ideas+into+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1200&color=00E8FF&center=true&vCenter=true&width=800&lines=Krishna+Awasthi;Software+Developer+%7C+Backend+Engineering+%7C+AI+Builder;Turning+Ideas+into+Scalable+Systems" />
 </p>
+
+
 
 <p align="center">
   <b>Backend Engineer with strong fundamentals in DSA, System Design, OS, and DBMS.</b><br>
