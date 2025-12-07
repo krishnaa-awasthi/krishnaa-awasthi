@@ -35,7 +35,7 @@ Here are the systems I've built — production-grade, optimized, and built with 
 - Built & deployed a complete lead-management + analytics platform for an insurance firm.  
 - Designed **modular REST APIs with authentication**, improving backend async operations by **30%**.  
 - Added **real-time data visualization** and robust **admin workflows**.  
-:contentReference[oaicite:1]{index=1}
+
 
 ---
 
@@ -44,7 +44,6 @@ Here are the systems I've built — production-grade, optimized, and built with 
 - AI chatbot answering questions from PDFs/DOCs using context-aware retrieval.  
 - Integrated **Gemini API** for accurate real-time reasoning over documents.  
 - Secured file uploads + low-latency query responses.  
-:contentReference[oaicite:2]{index=2}
 
 ---
 
@@ -53,7 +52,6 @@ Here are the systems I've built — production-grade, optimized, and built with 
 - Real-time object + face recognition wearable system.  
 - Used **multithreading** to optimize frame processing speed.  
 - Established smooth wireless video streaming between ESP32 and Python backend.  
-:contentReference[oaicite:3]{index=3}
 
 ---
 
@@ -61,27 +59,21 @@ Here are the systems I've built — production-grade, optimized, and built with 
 
 ### **Languages**
 `Java · Python · C/C++ · JavaScript · SQL · HTML · CSS`  
-:contentReference[oaicite:4]{index=4}
 
 ### **Backend & Frameworks**
 `Spring Boot (Microservices, REST APIs) · Node.js · Express.js`  
-:contentReference[oaicite:5]{index=5}
 
 ### **Frontend**
 `React.js · Tailwind CSS`  
-:contentReference[oaicite:6]{index=6}
 
 ### **Databases**
 `MySQL · MongoDB`  
-:contentReference[oaicite:7]{index=7}
 
 ### **Tools**
 `Git · GitHub · Postman · Docker · VS Code · AWS (Basic Deployment)`  
-:contentReference[oaicite:8]{index=8}
 
 ### **Core CS**
 `DSA · System Design Basics · OS · DBMS`  
-:contentReference[oaicite:9]{index=9}
 
 ---
 
@@ -91,14 +83,12 @@ Here are the systems I've built — production-grade, optimized, and built with 
 - Developed and deployed **React + Node.js** apps across multiple projects.  
 - Built reusable API modules + MongoDB integrations.  
 - Boosted delivery efficiency by **40%** through modular development.  
-:contentReference[oaicite:10]{index=10}
 
 ---
 
 ### 🔵 **Data Science & Analytics Intern — Zidio Development**  
 - Developed Python + SQL automation scripts for analytics workflows.  
 - Optimized SQL queries improving pipeline efficiency by **25%**.  
-:contentReference[oaicite:11]{index=11}
 
 ---
 
@@ -108,7 +98,6 @@ Here are the systems I've built — production-grade, optimized, and built with 
 Pranveer Singh Institute of Technology (AKTU), Kanpur  
 CGPA: **7.62 (till 4th semester)**  
 2023 – 2027  
-:contentReference[oaicite:12]{index=12}
 
 ---
 
@@ -117,7 +106,6 @@ CGPA: **7.62 (till 4th semester)**
 - **Finalist — Novartis Hackathon 2025**  
 - **Finalist — Smart PSIT Hackathon 2025**  
 - Certified in **Problem Solving (Intermediate)** & **Software Engineering — HackerRank**  
-:contentReference[oaicite:13]{index=13}
 
 ---
 
