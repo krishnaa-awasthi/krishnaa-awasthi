@@ -109,17 +109,6 @@ CGPA: **7.62 (till 4th semester)**
 
 ---
 
-## 📈 GitHub Overview
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=krishnaa-awasthi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=krishnaa-awasthi&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnaa-awasthi&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
 
 ## 📬 Contact Me <a name="contact"></a>
 <p align="center">
