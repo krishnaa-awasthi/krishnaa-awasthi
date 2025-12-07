@@ -2,18 +2,18 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 1 * * *"
-  workflow_dispatch:
+    - cron: "0 1 * * *"   # Runs daily at 1 AM UTC
+  workflow_dispatch:       # Allows manual trigger
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    
+
     steps:
       - uses: actions/checkout@v4
-      
+
       - uses: Platane/snk@v3
         with:
           github_user_name: krishnaa-awasthi
