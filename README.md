@@ -1,107 +1,112 @@
+<!-- HERO SECTION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E8FF&center=true&vCenter=true&width=700&lines=Hey+I'm+Krishna+Awasthi+👋;Full-Stack+Developer+%7C+AI+Builder+%7C+Problem+Solver;Turning+Ideas+into+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1200&color=00E8FF&center=true&vCenter=true&width=750&lines=Krishna+Awasthi;Full-Stack+Developer+%7C+AI+Builder+%7C+Problem+Solver" />
 </p>
 
-<h1 align="center">Krishna Awasthi</h1>
-
 <p align="center">
-  <strong>🎓 B.Tech CSE | Developer & Engineering Enthusiast</strong><br/>
-  <i>Full-Stack Web Dev • Python • AI Projects • System Design • Problem Solving</i>
-</p>
-
----
-
-## 🔗 Connect with Me  
-<p align="center">
-  <a href="https://github.com/krishnaa-awasthi" target="_blank">
-    <img src="https://img.shields.io/github/followers/krishnaa-awasthi?style=social&logo=github&label=Follow" />
-  </a>
-  <a href="https://www.linkedin.com/in/krishnaawasthi0306" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:krishnaawasthi0306@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <b>Building scalable systems, intuitive interfaces, and AI-powered tools.</b><br>
+  <i>I transform ideas into real-world products — fast, clean, and reliable.</i>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧭 Portfolio Navigation
 <p align="center">
-
-### **Languages**
-<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css" />
-
-### **Frameworks & Libraries**
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap,flask" />
-
-### **Databases**
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-### **Tools & DevOps**
-<img src="https://skillicons.dev/icons?i=git,linux,vscode,postman,github,figma" />
-
+  <a href="#projects"><img src="https://img.shields.io/badge/🚀_Projects-181717?style=for-the-badge"></a>
+  <a href="#tech-stack"><img src="https://img.shields.io/badge/🧰_Tech_Stack-00A8E8?style=for-the-badge"></a>
+  <a href="#experience"><img src="https://img.shields.io/badge/💼_Experience-ff9800?style=for-the-badge"></a>
+  <a href="#contact"><img src="https://img.shields.io/badge/📬_Contact_Me-7e57c2?style=for-the-badge"></a>
 </p>
 
 ---
 
-## 🚀 Highlight Projects
-### 🔹 **Full-Stack Insurance Management System (Production-Ready)**
-✔ MERN stack implementation  
-✔ Real-time data visualization  
-✔ Authentication + Admin workflows  
+## 🚀 Projects
+Here are the highlights from what I've built.  
+**These are not tutorial projects. These are systems that solved real problems.**
 
-### 🔹 **AI Document Chatbot**
-✔ Gemini API integration  
-✔ Context retrieval from PDFs/DOCs  
-✔ Fast search + secure upload  
+### 🔥 **Insurance Management Platform (Full-Stack)**
+`React · Node.js · Express · MongoDB · Nginx · Cloud Deployment`
+- End-to-end system for an insurance firm: leads, analytics, workflows.  
+- Optimized backend → *30% faster response times*.  
+- Modular APIs + secure admin dashboard.
 
-### 🔹 **Smart Assistive Glasses (Prototype)**
-✔ ESP32 Wi-Fi Camera Integration  
-✔ Real-time object detection  
-
-👉 *More projects on my pinned repos.*
+➡️ **Live** (if you deploy) • **Code:** _your repo link_
 
 ---
 
-## 📊 GitHub Stats & Activity  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnaa-awasthi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=krishnaa-awasthi&theme=highcontrast&hide_border=true" height="180" />
-</p>
+### 🤖 **AI Document Understanding Chatbot**
+`Python · Flask API · Gemini API · Vector Search`
+- Chat with your PDFs/DOCs using embeddings + retrieval.  
+- Real-time responses with accurate context pulling.  
+- Secure file handling + fast search pipeline.
 
-### 🔥 Top Languages
+➡️ **Code:** _your repo_
+
+---
+
+### 🥽 **Smart Assistive Glasses (Prototype)**
+`ESP32 · Wi-Fi Camera · Python · IoT`
+- First prototype of your assistive wearable.  
+- Real-time visual feed + processing pipeline.
+
+---
+
+### 🎓 **College Uniconnect Platform (Social + ERP Verification)**
+`React Native · Node.js · Express · MongoDB`
+- Private social network for verified students/faculty.  
+- Login validation with ERP → secure onboarding.  
+- Profiles, posts, media upload, and more.
+
+---
+
+## 🧰 Tech Stack <a name="tech-stack"></a>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaa-awasthi&layout=compact&theme=gotham&hide_border=true&langs_count=6" height="170"/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,react,nodejs,express,mongodb,mysql,git,linux,vscode,postman,figma,aws" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krishnaa-awasthi&theme=algolia&no-frame=true&row=1&column=7" />
-</p>
+## 💼 Experience <a name="experience"></a>
+
+### 🟣 **Co-Founder — AK2 Web Solution**
+Built production-ready software for real clients:
+- Lead management systems  
+- Company websites  
+- Automation tools  
+- Deployment setups & cloud infra  
+
+### 🔵 **Data Science & Analytics Intern — Zidio**
+- Hands-on with data pipelines, visualization, automation.
+
+### 🟠 **Projects & Hackathons**
+- Multiple working prototypes  
+- AI tools  
+- Blockchain interest  
+- IoT & hardware integrations  
 
 ---
 
-## 📈 Activity Graph
+## 📈 GitHub Overview
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=krishnaa-awasthi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=krishnaa-awasthi&theme=tokyonight&hide_border=true" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnaa-awasthi&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 📬 Contact Me <a name="contact"></a>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/krishnaa-awasthi/krishnaa-awasthi/output/github-contribution-grid-snake-dark.svg" />
+  <a href="mailto:krishnaawasthi0306@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/krishnaawasthi0306"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/krishnaa-awasthi"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  🚀 Always building. Always learning.  
-</p>
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=krishnaa-awasthi&label=Profile%20Views&color=blueviolet&style=flat-square" />
+  <i>Always building. Always shipping. Always learning.</i> 🚀
 </p>
