@@ -119,6 +119,14 @@ CGPA: **7.62 (till 4th semester)**
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krishnaa-awasthi/krishnaa-awasthi/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 <p align="center">
   <i>Building. Scaling. Shipping. Every day.</i> 🚀
 </p>
