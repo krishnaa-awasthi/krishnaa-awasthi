@@ -22,7 +22,6 @@
   <a href="#achievements"><img src="https://img.shields.io/badge/🏅_Achievements-9c27b0?style=for-the-badge"></a>
   <a href="#contact"><img src="https://img.shields.io/badge/📬_Contact-7e57c2?style=for-the-badge"></a>
 </p>
-
 ---
 
 ## 🚀 Projects <a name="projects"></a>
