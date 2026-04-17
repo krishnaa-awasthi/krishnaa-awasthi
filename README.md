@@ -22,7 +22,6 @@
 <summary><b>Languages & Core</b></summary>
 <br>
   
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,7 +33,6 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 </details>
@@ -87,9 +85,6 @@
 > * Built reusable API modules and optimized MongoDB database integrations.
 > * Boosted overall team delivery efficiency by **40%** through modular, component-driven development.
 
-**Data Science & Analytics Intern** | *Zidio Development*
-> * Engineered Python and SQL automation scripts to streamline complex analytics workflows.
-> * Optimized raw SQL queries, improving data pipeline execution efficiency by **25%**.
 
 <br>
 
@@ -97,7 +92,7 @@
 
 **B.Tech — Computer Science Engineering (2023 – 2027)**
 *Pranveer Singh Institute of Technology (AKTU), Kanpur*
-* **Current CGPA:** 7.62 (till 4th semester)
+* **Current CGPA:** 7.62 (till 6th semester)
 * **Focus Areas:** Data Structures, Algorithms, OS, DBMS, System Design.
 
 <br>
@@ -109,7 +104,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaa-awasthi&theme=dracula&hide_border=true&background=0A0A0A" width="48%" />
 </div>
 
-* 🧠 Solved **350+ problems on LeetCode** (Heavy focus on DP, Trees, and Graphs).
+* 🧠 Solved **350+ problems on LeetCode** 
 * 🏆 **Finalist** — Novartis Hackathon 2025
 * 🏆 **Finalist** — Smart PSIT Hackathon 2025
 * 📜 **Certified** in Problem Solving (Intermediate) & Software Engineering by HackerRank.
